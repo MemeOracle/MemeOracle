@@ -1,0 +1,4 @@
+date,coin_name,sentiment_score,volume
+2025-01-01,MemecoinX,0.9,500000
+2025-01-02,MemecoinY,-0.5,200000
+2025-01-03,MemecoinZ,0.7,350000
