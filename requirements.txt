@@ -1,0 +1,11 @@
+openai
+requests
+numpy
+pandas
+scikit-learn
+matplotlib
+torch
+transformers
+flask
+fastapi
+uvicorn
