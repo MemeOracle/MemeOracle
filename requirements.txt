@@ -9,3 +9,5 @@ transformers
 flask
 fastapi
 uvicorn
+python-dotenv
+python-telegram-bot
